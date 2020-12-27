@@ -1,6 +1,6 @@
+# Swift for the C# Developer
 
-
-
+- [Swift for the C# Developer](#swift-for-the-c-developer)
 - [Highlights](#highlights)
   - [Logo](#logo)
 - [Comparing Terminology](#comparing-terminology)
